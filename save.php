@@ -28,5 +28,6 @@ if ($conn->query($sql) === TRUE) {
 
 $conn->close();
 ?>
+<a href="list.php"> Retourner a la liste  </a>
 </body>
 </html>
